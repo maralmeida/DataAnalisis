@@ -1,4 +1,4 @@
-# DataAnalisis
+📊# DataAnalisis
 
 Encontrarán ejercicios de exploración y analítica de datos de negocios y tecnología
 #### Datos estructurados de origen local
